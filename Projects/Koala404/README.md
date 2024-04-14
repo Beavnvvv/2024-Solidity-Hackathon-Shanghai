@@ -10,9 +10,9 @@ react前端＋solidity智能合约
 ## 合约语言
 solidity
 ## 核心功能
-NFT
+图币二象性
 ## 项目团队
-https://github.com/Bachamht
+https://github.com/Bachamht   
 https://github.com/Beavnvvv
 ## 项目链接
 * CodeLink:https://github.com/Bachamht/Koala404
